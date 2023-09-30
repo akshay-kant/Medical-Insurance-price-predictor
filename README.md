@@ -1,1 +1,2 @@
 # Medical-Insurance-price-predictor
+This is a Machine Learning model in which we are predicting the price of medical insurance for person using their age,gender,bmi,number of children,smoker or not and region as features.In this project we have performed data cleaning , Exploratory data analysis,data preprocessing,training and testing , checking accuracy of model against different ML algorithm,and finally building predictive system using Random Forest Classifier 
